@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Cruz;
-- 👀 I’m interested in Data Science;
-- 🌱 I’m currently learning Data Analysis;
+- 👀 I’m interested in programming in Python;
+- 🌱 I’m currently learning Data Science;
 - 💞️ I’m looking to collaborate on Intelligence Artificial;
 - 📫 You can reach me trhough e-mail: dev.lucascruz@gmail.com;
 
