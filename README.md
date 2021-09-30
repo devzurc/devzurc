@@ -1,2 +1,3 @@
-- 👀 Hoje trabalho com Python;
-- 🌱 Estudando: AWS / Lambda;
+- Working on an IoT project focused on security work;
+- Python for data analysis and process automation;
+- Learning Cloud Environments (AWS);
