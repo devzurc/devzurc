@@ -4,3 +4,4 @@ Python Developer | Data Science | Data Analysis
 * Python for data analysis and process automation;
 * Experience with AWS services;
 * Experiencie with SAP and Financial automations;
+----
