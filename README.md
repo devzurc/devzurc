@@ -2,5 +2,4 @@ Python Developer | Data Science | Data Analysis
 
 * Work on an IoT project focused on security work;
 * Python for data analysis and process automation;
-* Experience with AWS services;
-* Experiencie with SAP and Financial automations;
+* Experience with AWS services, SAP and Financial automations;
