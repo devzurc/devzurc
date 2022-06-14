@@ -1,4 +1,4 @@
-Python Developer | Data Science JR
+Python Developer | Data Science JR  |
 
 
 * Work on an IoT project focused on security work;
