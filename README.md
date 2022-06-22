@@ -1,9 +1,13 @@
 ## Data Scientist JR | Python Developer
-<b>I'm the Data Dude!!</b><br>
-Let's talk about <b>analytics</b> and <b>data science</b> 📈
 
-* ETL Pipelines;
-* Python
-  - Libs: Pandas, Tkinter, Boto3, Psycopg2, 
-* Python for data analysis and RPA's;
-* Experience with Cloud (AWS services);
+Sup bro!
+I'm the Data Dude!
+<br>
+Young <b>Data Scientist JR</b> that realize <b>ETL Pipelines</b> for <b>Data Analysis</b> and develop Robot Proccess Automation using the Python language.
+<br><br>
+Let's talk about <b>analytics</b> and <b>data science</b>📈.
+<br>
+<br>
+
+<b>* Python </b>(Pandas, Boto3, Psycopg2, Tkinter, Django)<br>
+<b>* AWS </b>(S3, EC2, IAM, DynamoDB, Redshift)
