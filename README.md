@@ -3,7 +3,7 @@
 Sup bro!
 I'm the Data Dude!
 <br>
-Young <b>Data Scientist JR</b> that realize <b>ETL Pipelines</b> for <b>Data Analysis</b> and develop Robot Proccess Automation using the Python language.
+Young <b>Data Scientist JR</b> who realize <b>ETL Pipelines</b> for <b>Data Analysis</b> and develop Robot Proccess Automation using the Python language.
 <br><br>
 Let's talk about <b>analytics</b> and <b>data science</b>📈.
 <br>
