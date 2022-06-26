@@ -1,4 +1,4 @@
-# Lucas Cruz - DEVZURC
+# Lucas Cruz - DEVZURC.
 ## Data Scientist JR | Python Developer
 
 <p>
