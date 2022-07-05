@@ -1,7 +1,6 @@
 # Lucas Cruz - DEVZURC.
 ___________
 ## Data Scientist JR | Python Developer
-
 ___________
 <p>
   Sup Bro!<br>
