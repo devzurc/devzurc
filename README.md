@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <b>* Python </b>(Pandas, Boto3, Psycopg2, Tkinter, Django)<br>
+  <b>* Python </b>(Pandas, Boto3, Psycopg2)<br>
   <b>* AWS </b>(S3, EC2, IAM, DynamoDB, Redshift)<br>
   <b>* HTML, CSS, SQL, GIT and LINUX</b>
 </p>
