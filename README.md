@@ -12,6 +12,8 @@
   Let's talk about <b>analytics</b> and <b>data science</b>📈.
 </p>
 <p>
+  
+  
   <b>* Python </b>(Pandas, Requests, Boto3, Psycopg2, Pyodbc);<br>
   <b>* SQL on SQL-Server and MySQL;</b><br>
   <b>* AWS </b>(S3, EC2, IAM, DynamoDB, Redshift);<br>
