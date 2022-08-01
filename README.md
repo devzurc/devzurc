@@ -19,3 +19,5 @@
   <b>* GIT and GIT-FLOW (Github/Gitlab);<br>
   <b>* HTML and CSS;</b><br> 
 </p>
+
+<b>gitlab: https://gitlab.com/devzurc</b>
