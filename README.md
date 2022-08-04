@@ -1,5 +1,6 @@
 # Lucas Cruz - devzurc
 ## Data Scientist JR | Python Developer
+
 <p>
   Sup Bro!<br>
   I'm the DATA DUDE!
