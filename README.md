@@ -19,4 +19,3 @@
 </p>
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
-
