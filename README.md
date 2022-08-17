@@ -10,6 +10,7 @@
 <p>
   Let's talk about <b>analytics</b> and <b>data science</b>📈.
 </p>
+
 <p>
   <b>* Python </b>(Pandas, Requests, Boto3, Psycopg2, Pyodbc);<br>
   <b>* SQL on SQL-Server and MySQL;</b><br>
