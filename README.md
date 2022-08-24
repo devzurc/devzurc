@@ -17,7 +17,7 @@
 
 <p>
   <b>* Python </b>(Pandas, Requests, Boto3, Psycopg2, Pyodbc);<br>
-  <b>* SQL on SQL-Server and MySQL;</b><br>
+  <b>* SQL, DW and DL;</b><br>
   <b>* AWS </b>(S3, EC2, IAM, DynamoDB, Redshift);<br>
   <b>* GIT and GIT-FLOW (Github/Gitlab);<br>
   <b>* HTML and CSS;</b><br> 
