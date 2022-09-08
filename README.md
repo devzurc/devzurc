@@ -3,7 +3,8 @@
 <p>
   Sup Bro!<br>
   I'm the DATA DUDE!
-</p>  
+</p>
+
 <p>
   Young <b>data scientist</b> performing business analysis by applying ETL Pipelines and Robot Proccess Automations using Python programming language with data visualizations.
 </p>
