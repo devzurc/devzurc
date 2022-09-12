@@ -14,6 +14,7 @@
   Let's talk about <b>analytics</b> and <b>data science</b>📈.
 </p>
 
+
 <p>
   <b>* Python </b>(Pandas, Requests, Sqlalchemy, Boto3, Psycopg2, Pyodbc);<br>
   <b>* SQL </b>(SQL-Server, Oracle, MySQL, Redshift);<br>
