@@ -1,6 +1,5 @@
 # Lucas Cruz - devzurc
 ## Data Scientist JR | Python Developer
-
 <p>
   Sup Bro!<br>
   I'm the DATA DUDE!
@@ -13,8 +12,8 @@
 </p>
 <p>
   <b>* Python </b>(Pandas, Requests, Sqlalchemy, Boto3, Psycopg2, Pyodbc);<br>
-  <b>* SQL </b>(SQL-Server, Oracle, MySQL, Redshift);<br>
-  <b>* AWS </b>(S3, EC2, IAM, DynamoDB, Redshift, Lambda);<br>
+  <b>* SQL and NoSQL </b>(SQL-Server, Oracle, MySQL, Redshift);<br>
+  <b>* AWS and ORACLE Cloud</b>(Storage, Functions, Databases);<br>
   <b>* GIT and GIT-FLOW (Github, Gitlab, Bitbucket);<br>
   <b>* HTML and CSS;</b><br> 
 </p>
