@@ -16,7 +16,7 @@
 <p>
   <b>* Python </b>(Requests, Pandas, Numpy, Sqlalchemy, Boto3, Psycopg2, Pyodbc);<br>
   <b>* SQL  & NoSQL </b>(SQLite, MySQL, SQLServer, Autonomus, Redshift, DynamoDB and MongoDB);<br>
-  <b>* HTML & CSS;</b><br>
+  <b>* HTML & CSS (Bootstrap);</b><br>
   <b>* GIT  & GIT-FLOW (Github, Gitlab, Bitbucket);<br>
   <b>* AWS  & OCI </b>(Storage, Functions, Databases);<br>
 </p>
