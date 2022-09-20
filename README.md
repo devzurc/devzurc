@@ -14,11 +14,11 @@
 </p>
 
 <p>
-  <b>* Python </b>(Pandas, Requests, Sqlalchemy, Boto3, Psycopg2, Pyodbc);<br>
-  <b>* SQL and NoSQL </b>(SQL: SQLServer, Autonomus, Protheus, MySQL, Redshift NoSQL: DynamoDB and MongoDB);<br>
-  <b>* HTML and CSS;</b><br>
-  <b>* GIT and GIT-FLOW (Github, Gitlab, Bitbucket);<br>
-  <b>* AWS and OCI </b>(Storage, Functions, Databases);<br>
+  <b>* Python </b>(Requests, Pandas, Numpy, Sqlalchemy, Boto3, Psycopg2, Pyodbc);<br>
+  <b>* SQL  & NoSQL </b>(SQLite, MySQL, SQLServer, Autonomus, Redshift, DynamoDB and MongoDB);<br>
+  <b>* HTML & CSS;</b><br>
+  <b>* GIT  & GIT-FLOW (Github, Gitlab, Bitbucket);<br>
+  <b>* AWS  & OCI </b>(Storage, Functions, Databases);<br>
 </p>
   
 <b>gitlab: https://gitlab.com/devzurc</b><br>
