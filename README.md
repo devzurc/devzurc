@@ -15,7 +15,7 @@
 
 <p>
   <b>* Python </b>(Pandas, Requests, Sqlalchemy, Boto3, Psycopg2, Pyodbc);<br>
-  <b>* SQL and NoSQL </b>(SQL-Server, Oracle, MySQL, Redshift);<br>
+  <b>* SQL and NoSQL </b>(SQL: SQLServer, Autonomus, Protheus, MySQL, Redshift NoSQL: DynamoDB and MongoDB);<br>
   <b>* HTML and CSS;</b><br>
   <b>* GIT and GIT-FLOW (Github, Gitlab, Bitbucket);<br>
   <b>* AWS and OCI </b>(Storage, Functions, Databases);<br>
