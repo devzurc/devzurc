@@ -16,9 +16,9 @@
 <p>
   <b>* Python </b>(Pandas, Requests, Sqlalchemy, Boto3, Psycopg2, Pyodbc);<br>
   <b>* SQL and NoSQL </b>(SQL-Server, Oracle, MySQL, Redshift);<br>
-  <b>* AWS and ORACLE Cloud</b>(Storage, Functions, Databases);<br>
+  <b>* HTML and CSS;</b><br>
   <b>* GIT and GIT-FLOW (Github, Gitlab, Bitbucket);<br>
-  <b>* HTML and CSS;</b><br> 
+  <b>* AWS and OCI </b>(Storage, Functions, Databases);<br>
 </p>
   
 <b>gitlab: https://gitlab.com/devzurc</b><br>
