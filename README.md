@@ -19,7 +19,7 @@
   <b>* HTML & CSS </b>; (Bootstrap and Wordpress)<br>
   <b>* GIT  & GIT-FLOW </b>; (Github, Gitlab, Bitbucket)<br>
   <b>* Cloud - AWS  & OCI </b>; (Storage, Functions, Databases)<br>
-  <b>* Agiles Methods - Scrum & Kanban </b>;
+  <b>* Agile Methods - Scrum & Kanban </b>;
 </p>
   
 <b>gitlab: https://gitlab.com/devzurc</b><br>
