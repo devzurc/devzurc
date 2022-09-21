@@ -14,12 +14,12 @@
 </p>
 
 <p>
-  <b>* Python </b>; (Requests, Pandas, Numpy, Sqlalchemy, Boto3, Psycopg2, Pyodbc)<br>
-  <b>* SQL  & NoSQL </b>; (SQLite, MySQL, SQLServer, Autonomus, Redshift, DynamoDB and MongoDB)<br>
-  <b>* HTML & CSS </b>; (Bootstrap and Wordpress)<br>
-  <b>* GIT  & GIT-FLOW </b>; (Github, Gitlab, Bitbucket)<br>
-  <b>* Cloud - AWS  & OCI </b>; (Storage, Functions, Databases)<br>
-  <b>* Agile Methods - Scrum & Kanban </b>;
+  <b>* Python</b>; (Requests, Pandas, Numpy, Sqlalchemy, Boto3, Psycopg2, Pyodbc)<br>
+  <b>* SQL  & NoSQL</b>; (SQLite, MySQL, SQLServer, Autonomus, Redshift, DynamoDB and MongoDB)<br>
+  <b>* HTML & CSS</b>; (Bootstrap and Wordpress)<br>
+  <b>* GIT  & GIT-FLOW</b>; (Github, Gitlab, Bitbucket)<br>
+  <b>* Cloud Computing</b>; (AWS  & OCI)<br>
+  <b>* Agile Methods</b>; (Scrum & Kanban)<br>
 </p>
   
 <b>gitlab: https://gitlab.com/devzurc</b><br>
