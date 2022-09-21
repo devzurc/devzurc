@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <b>* Python</b>; (Requests, Pandas, Numpy, Sqlalchemy, Boto3, Psycopg2, Pyodbc)<br>
+  <b>* Python</b>; (Requests, Pandas, Numpy, Sqlalchemy, Boto3, Psycopg2, Pyodbc, OCI)<br>
   <b>* SQL  & NoSQL</b>; (SQLite, MySQL, SQLServer, Autonomus, Redshift, DynamoDB and MongoDB)<br>
   <b>* HTML & CSS</b>; (Bootstrap and Wordpress)<br>
   <b>* GIT  & GIT-FLOW</b>; (Github, Gitlab, Bitbucket)<br>
