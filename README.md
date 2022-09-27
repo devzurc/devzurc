@@ -8,7 +8,7 @@
   Let's talk about <b>analytics</b> and <b>data science</b>📈.
 </p>
 <p>
-  <bSkills:</br> <br>
+  <b>Skills:</br> <br>
     <b>~></b> Python <br>
     <b>~></b> SQL  & NoSQL;<br>
     <b>~></b> HTML & CSS;<br>
