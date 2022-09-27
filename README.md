@@ -8,8 +8,8 @@
   Let's talk about <b>analytics</b> and <b>data science</b>📈.
 </p>
 <p>
-  Skills:
-  <b>* Python</b>;<br>
+  Skills: <br>
+  <b>``* Python</b>;``<br>
   <b>* SQL  & NoSQL</b>;<br>
   <b>* HTML & CSS</b>;<br>
   <b>* GIT  & GIT-FLOW</b>;<br>
