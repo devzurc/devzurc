@@ -9,7 +9,7 @@
 </p>
 <p>
   Skills: <br>
-  <b>``* Python</b>;``<br>
+  ``Python``
   <b>* SQL  & NoSQL</b>;<br>
   <b>* HTML & CSS</b>;<br>
   <b>* GIT  & GIT-FLOW</b>;<br>
