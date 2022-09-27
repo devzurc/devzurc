@@ -8,6 +8,7 @@
   Let's talk about <b>analytics</b> and <b>data science</b>📈.
 </p>
 <p>
+  * teste
   Skills: <br>
   <b> * </b> Python <br>
   <b> -> </b> SQL  & NoSQL;<br>
