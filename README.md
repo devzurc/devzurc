@@ -10,11 +10,11 @@
 <p>
   Skills: <br>
   <b> -> </b> Python <br>
-  <b>* SQL  & NoSQL</b>;<br>
-  <b>* HTML & CSS</b>;<br>
-  <b>* GIT  & GIT-FLOW</b>;<br>
-  <b>* Cloud Computing</b>;<br>
-  <b>* Agile Methods</b>;<br>
+  <b> -> </b> SQL  & NoSQL;<br>
+  <b> -> </b> HTML & CSS;<br>
+  <b> -> </b> GIT  & GIT-FLOW;<br>
+  <b> -> </b> Cloud Computing;<br>
+  <b> -> </b> Agile Methods;<br>
 </p>
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
