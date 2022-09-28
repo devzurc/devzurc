@@ -14,11 +14,11 @@
     <b>~></b> GIT  & GIT-FLOW;<br>
     <b>~></b> Cloud Computing;<br>
     <b>~></b> Agile Methods;<br>
-    <b>~></b> Windows and Linux;
-  <b>Develop:
-    <b>~></b> Terraform;
-    <b>~></b> Ansible;
-    <b>~></b> Kubernets;
+    <b>~></b> Windows and Linux;<br>
+  <b>Develop:</br>
+    <b>~></b> Terraform;</br>
+    <b>~></b> Ansible;</br>
+    <b>~></b> Kubernets;</br>
 </p>
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
