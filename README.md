@@ -15,6 +15,7 @@
     <b>~></b> Cloud Computing;<br>
     <b>~></b> Agile Methods;<br>
     <b>~></b> Windows and Linux;<br>
+  <div>
   <b>Develop:</br>
     <b>~></b> Terraform;</br>
     <b>~></b> Ansible;</br>
