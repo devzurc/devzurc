@@ -1,4 +1,4 @@
-# Python Developer | Data Scientist JR |
+# Python Developer | Data Scientist | 
 <p>
   Sup Bro!<br>
   I'm the DATA DUDE!
