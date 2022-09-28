@@ -4,7 +4,7 @@
   I'm the DATA DUDE!
 </p>
 <p>
-  Let's talk about <b>analytics</b> and <b>data science</b>📈.
+  Let's talk about <b>data science</b>📈.
 </p>
 <p>
   <b>Skills:</br>
