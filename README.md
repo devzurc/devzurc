@@ -8,7 +8,7 @@
 </p>
 <p>
   <b>Skills:</br>
-    <b>~></b> Python <br>
+    <b>~></b> Python <br>;
     <b>~></b> SQL  & NoSQL;<br>
     <b>~></b> HTML & CSS;<br>
     <b>~></b> GIT  & GIT-FLOW;<br>
