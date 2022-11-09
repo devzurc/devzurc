@@ -9,12 +9,12 @@
 </p>
 <p>
   <b>Skills:</br>
-    <b>~></b> Python;<br>
-    <b>~></b> SQL  & NoSQL;<br>
+    <b>~></b> Python; (pandas, oracledb, sqlachemy, requests, dotenv, boto3, oci)<br>
+    <b>~></b> SQL  & NoSQL;(sqlserver, mysql, autonomous, redshift, dynamodb, mongodb)<br>
     <b>~></b> HTML & CSS;<br>
     <b>~></b> GIT  & GIT-FLOW;<br>
-    <b>~></b> Agile Methods;<br>
-    <b>~></b> Cloud Computing;<br>
+    <b>~></b> Agile Methods;<br> (kanban and scrum)
+    <b>~></b> Cloud Computing;<br> (aws and oracle)
 </p>
 
 
