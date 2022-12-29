@@ -7,6 +7,7 @@
 <p>
   Let's talk about <b>Data Science</b>📈.
 </p>
+
 <p>
   <b>Skills:</br>
     <b>~></b> Python; (pandas, oracledb, sqlachemy, requests, dotenv, boto3, oci)<br>
