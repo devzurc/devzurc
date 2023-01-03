@@ -12,7 +12,7 @@
     <b>~></b> SQL  & NoSQL;(sqlserver, mysql, autonomous, redshift, dynamodb, mongodb)<br>
     <b>~></b> HTML & CSS;<br>
     <b>~></b> GIT  & GIT-FLOW;<br>
-    <b>~></b> Agile Methods;<br> (kanban and scrum)<br>
+    <b>~></b> Agile Methods; (kanban and scrum)<br>
     <b>~></b> Cloud Computing;<br> (aws and oracle)<br>
 </p>
 
