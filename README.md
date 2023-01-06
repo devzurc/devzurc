@@ -13,7 +13,7 @@
     <b>~></b> HTML & CSS;<br>
     <b>~></b> GIT  & GIT-FLOW;<br>
     <b>~></b> Agile Methods; (kanban and scrum)<br>
-    <b>~></b> Cloud Computing;<br> (aws and oracle)<br>
+    <b>~></b> Cloud Computing; (aws and oracle)<br>
 </p>
 
 
