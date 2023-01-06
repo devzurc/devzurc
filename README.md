@@ -3,7 +3,6 @@
 
 
 
-
 <p>
   Sup Bro!<br>
 	I'm a data dude enthusiast trying to learn everything I think I need to become a better Data Scientist.
