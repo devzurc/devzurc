@@ -20,4 +20,3 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
 
 
-
