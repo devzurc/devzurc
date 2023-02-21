@@ -9,7 +9,7 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 <p>
   <b>Skills:</br>
     <b>~></b> Python; (pandas, oracledb, sqlachemy, requests, dotenv, boto3, oci)<br>
-    <b>~></b> SQL  & NoSQL;(sqlserver, mysql, autonomous, redshift, dynamodb, mongodb)<br>
+    <b>~></b> SQL  & NoSQL;(postgree, sqlserver, mysql, autonomous, redshift, dynamodb, mongodb)<br>
     <b>~></b> HTML & CSS;<br>
     <b>~></b> GIT  & GIT-FLOW;<br>
     <b>~></b> Agile Methods; (kanban and scrum)<br>
