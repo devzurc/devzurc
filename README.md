@@ -15,6 +15,7 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
     <b>~></b> GIT  & GIT-FLOW;<br>
     <b>~></b> Agile Methods; (kanban and scrum)<br>
     <b>~></b> Cloud Computing; (aws and oracle)<br>
+    <b>~></b> Linux and Windows (Bash and PowerShell) 
 </p>
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
