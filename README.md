@@ -11,12 +11,12 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
   <b>Skills:</br>
     <b>~></b> Python; (pandas, oracledb, sqlachemy, requests, dotenv, boto3, oci)<br>
     <b>~></b> SQL  & NoSQL;(postgree, sqlserver, mysql, autonomous, redshift, dynamodb, mongodb)<br>
-    <b>~></b> Power B.I
+    <b>~></b> Power B.I; <br>
     <b>~></b> HTML & CSS;<br>
     <b>~></b> GIT  & GIT-FLOW;<br>
     <b>~></b> Agile Methods; (kanban and scrum)<br>
     <b>~></b> Cloud Computing; (aws and oracle)<br>
-    <b>~></b> Linux and Windows (Bash and PowerShell)<br>
+    <b>~></b> Linux and Windows; (Bash and PowerShell)<br>
 </p>
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
