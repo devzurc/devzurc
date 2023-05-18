@@ -14,10 +14,10 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
     <b>~></b> SQL  & NoSQL;(postgresql, sqlserver, oracle, mysql, dynamodb, mongodb); <br>
     <b>~></b> Data Visualizations (Power B.I and Qlik Sense); <br>
     <b>~></b> HTML, CSS and JavaScript ; <br>
-    <b>~></b> GIT; <br>
-    <b>~></b> Agile Methods; (kanban and scrum); <br>
     <b>~></b> Cloud Computing; (aws, azure e oracle); <br>
     <b>~></b> Linux and Windows; (Bash and PowerShell); <br>
+    <b>~></b> Agile Methods; (kanban and scrum); <br>
+    <b>~></b> GIT; <br>
 </p>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
