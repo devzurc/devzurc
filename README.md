@@ -22,7 +22,8 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
 
-
-* Build Databases;
-* Build Datawarehouses;
-* Build Dashboards;
+* Build:
+  * Scripts Python
+  * Databases;
+  * Datawarehouses;
+  * Dashboards;
