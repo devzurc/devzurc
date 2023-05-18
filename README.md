@@ -23,8 +23,7 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
 
 * Build:
-  * Scripts Python;
-  * Scripts SQL;
-  * Databases;
-  * Datawarehouses;
+  * Scripts Python and SQL;
+  * Data Pipelines - Apache Airflow
+  * Databases, Datawarehouses and Data Lakes;
   * Dashboards;
