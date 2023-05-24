@@ -25,4 +25,4 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
   * Scripts Python and SQL;
   * Data Pipelines - Apache Airflow
   * Databases, Datawarehouses and Data Lakes;
-  * Dashboards;
+  * Dashboards with PBI and Qlik Sense;
