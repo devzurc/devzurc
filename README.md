@@ -4,7 +4,6 @@
 I'm a data dude enthusiast trying to learn everything I think I need to become a better Data Scientist.
 </p>
 
-
 <p>
   Let's talk about <b>data</b>📈.
 </p>
