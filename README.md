@@ -13,7 +13,7 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
     <b>~></b> SQL  & NoSQL;(postgresql, sqlserver, oracle, mysql, dynamodb, mongodb); <br>
     <b>~></b> Data Visualizations (Power B.I and Qlik Sense); <br>
     <b>~></b> HTML, CSS; <br>
-    <b>~></b> AWS; (Lambda, S3, RedShift, Athena, EC2, IAM, Cloudwatch); <br>
+    <b>~></b> AWS; (EC2, IAM, Lambda, S3, RedShift, Athena, Cloudwatch); <br>
     <b>~></b> Linux and Windows; (Bash and PowerShell); <br>
     <b>~></b> Agile Methods; (kanban and scrum); <br>
     <b>~></b> GIT; <br>
