@@ -17,7 +17,7 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
   <b>~></b> Cloud Computing; (AWS and Azure); <br>
   
   <b>~></b> GIT; <br>
-    <b>~></b> Agile Methods; <br>
+  <b>~></b> Agile Methods; <br>
     
   <b>~></b> Data Pipelines (Batch and Stream);<br>
   <b>~></b> Data Warehouses, Data Lakes and Data Lakehouses;<br>
