@@ -5,7 +5,8 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 
 Let's talk about <b>data</b>📈.
 
-* Python, SQL, HTML and CSS;
+* Python and SQL;
+* HTML and CSS;
 * Shell Scripts;
 
 * Data Pipelines (Data Warehouses, Lakes and Lakehouses) (Batch and Stream);
