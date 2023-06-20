@@ -9,13 +9,11 @@ Let's talk about <b>data</b>📈.
 >> HTML and CSS;<br>
 >> Shell Scripts;<br>
 
->> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure);<br>
-
->> Data Pipelines (Data Warehouses, Lakes and Lakehouses) (Batch and Stream);<br>
+>> Data Pipelines with Apache Spark, Apache Airflow (Batch and Stream)<br>
 >> Data Visualizations (Power B.I, Qlik and Looker);<br>
-  
->> GIT and Agile Methods;<br>
 
+>> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure);<br>
+>> GIT and Agile Methods;<br>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
