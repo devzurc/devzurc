@@ -9,8 +9,8 @@ Let's talk about <b>data</b>📈.
 >> HTML and CSS;<br>
 >> Shell Scripts;<br>
 
->> Data Pipelines with Apache Spark and Airflow (Batch and Stream)<br>
 >> Data Visualizations (Power B.I, Qlik and Looker);<br>
+>> Data Pipelines with Apache Spark and Airflow (Batch and Stream)<br>
 
 >> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure);<br>
 >> GIT and Agile Methods;<br>
