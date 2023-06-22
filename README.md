@@ -8,6 +8,7 @@ Let's talk about <b>data</b>📈.
 >> Python and SQL;<br>
 >> HTML and CSS;<br>
 >> Shell Scripts;<br>
+>> Docker;
 
 >> Data Visualizations (Power B.I, Qlik and Looker);<br>
 >> Data Pipelines with Apache Spark and Airflow (Batch and Stream)<br>
