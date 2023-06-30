@@ -5,19 +5,19 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 
 Let's talk about <b>data</b>📈.
 
->> Python and SQL;<br>
->> HTML and CSS;<br>
->> Shell Scripts;<br>
+>> Python and SQL; <br>
+>> HTML and CSS; <br>
+>> Shell Scripts; <br>
 
->> Apache Spark
->> Apache Airflow
->> Docker;
+>> Apache Spark; <br>
+>> Apache Airflow; <br>
+>> Docker; <br>
 
->> Data Visualizations (Power B.I, Qlik and Looker);<br>
->> Data Pipelines (Batch and Stream)<br>
+>> Data Visualizations (Power B.I, Qlik and Looker); <br>
+>> Data Pipelines (Batch and Stream); <br>
 
->> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure);<br>
->> GIT and Agile Methods;<br>
+>> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure); <br>
+>> GIT and Agile Methods; <br>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
