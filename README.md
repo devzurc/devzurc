@@ -8,11 +8,13 @@ Let's talk about <b>data</b>📈.
 >> Python and SQL;<br>
 >> HTML and CSS;<br>
 >> Shell Scripts;<br>
+
+>> Apache Spark
+>> Apache Airflow
 >> Docker;
 
 >> Data Visualizations (Power B.I, Qlik and Looker);<br>
 >> Data Pipelines (Batch and Stream)<br>
->> Apache Spark and Apache Airflow
 
 >> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure);<br>
 >> GIT and Agile Methods;<br>
