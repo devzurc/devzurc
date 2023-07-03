@@ -11,7 +11,7 @@ Let's talk about <b>data</b>📈.
 
 >> Apache Spark; <br>
 >> Apache Airflow; <br>
->> Docker; <br>
+>> Docker and Docker Compose; <br>
 
 >> Data Visualizations (Power B.I, Qlik and Looker); <br>
 >> Data Pipelines (Batch and Stream); <br>
