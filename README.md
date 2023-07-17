@@ -16,7 +16,7 @@ Let's talk about <b>data</b>📈.
 >> Data Visualizations (Power B.I, Qlik and Looker); <br>
 >> Data Pipelines (Batch and Stream); <br>
 
->> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure); <br>
+>> Cloud Computing (AWS, Azure e Oracle Cloud Infrastructure); <br>
 >> GIT and Agile Methods; <br>
 
 >> Data Modern Stack
