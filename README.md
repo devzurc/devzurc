@@ -19,5 +19,7 @@ Let's talk about <b>data</b>📈.
 >> Cloud Computing (AWS, Azure, GCP e Oracle Cloud Infrastructure); <br>
 >> GIT and Agile Methods; <br>
 
+>> Data Modern Stack
+
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
