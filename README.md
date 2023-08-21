@@ -13,7 +13,6 @@ Let's talk about <b>data</b>📈.
 >> Apache Airflow; <br>
 >> Docker and Docker Compose; <br>
 
-
 >> Data Visualizations (Power B.I, Qlik and Superset); <br>
 >> Data Pipelines (Batch and Stream); <br>
 
