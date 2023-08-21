@@ -9,7 +9,6 @@ Let's talk about <b>data</b>📈.
 >> HTML and CSS; <br>
 >> Shell Scripts; <br>
 
-
 >> Apache Spark; <br>
 >> Apache Airflow; <br>
 >> Docker and Docker Compose; <br>
