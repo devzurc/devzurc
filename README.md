@@ -16,7 +16,6 @@ Let's talk about <b>data</b>📈.
 >> Data Visualizations (Power B.I, Qlik and Superset); <br>
 >> Data Pipelines (Batch and Stream); <br>
 
-
 >> Cloud Computing (AWS, Azure e Oracle Cloud Infrastructure); <br>
 >> GIT and Agile Methods; <br>
 
