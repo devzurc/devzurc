@@ -3,6 +3,7 @@
 Sup Bro!
 I'm a data dude enthusiast trying to learn everything I think I need to become a better Data Scientist.
 
+
 Let's talk about <b>data</b>📈.
 
 >> Python and SQL; <br>
