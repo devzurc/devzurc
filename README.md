@@ -5,12 +5,12 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 
 Let's talk about <b>data</b>📈.
 
->> Python and SQL; <br>
+>> Python; <br>
+>> SQL an NoSQL; <br>
 >> HTML and CSS; <br>
->> Shell Scripts; <br>
+>> Schell Scripts (Unix and Bash) <br>;
 
->> Apache Spark; <br>
->> Apache Airflow; <br>
+>> Apache Spark and Airflow; <br>
 >> Docker and Docker Compose; <br>
 
 >> Data Visualizations (Power B.I, Qlik and Superset); <br>
@@ -18,8 +18,6 @@ Let's talk about <b>data</b>📈.
 
 >> Cloud Computing (AWS, Azure e Oracle Cloud Infrastructure); <br>
 >> GIT and Agile Methods; <br>
-
->> Data Modern Stack
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
