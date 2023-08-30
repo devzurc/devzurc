@@ -13,8 +13,8 @@ Let's talk about <b>data</b>📈.
 >> Data Pipelines End2End (Batch / Stream); <br>
 >> Data Visualizations (Power B.I / Qlik / Superset); <br>
 
+>> Docker; <br>
 >> Shells Scripts (Unix / Bash) ; <br>
->> Docker and Docker Compose; <br>
 >> Cloud Computing (AWS / Azure / Oracle); <br>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
