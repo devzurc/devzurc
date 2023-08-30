@@ -8,7 +8,7 @@ Let's talk about <b>data</b>📈.
 >> Python; <br>
 >> SQL an NoSQL; <br>
 >> HTML and CSS; <br>
->> Schell Scripts (Unix and Bash) <br>;
+>> Schell Scripts (Unix and Bash); <br>
 
 >> Apache Spark and Airflow; <br>
 >> Docker and Docker Compose; <br>
