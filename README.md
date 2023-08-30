@@ -5,7 +5,7 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 
 Let's talk about <b>data</b>📈.
 
->> Python; (Pandas, PyArrow, PySpark, Airflow, Pandas, SQLAlchemy...)<br>
+>> Python; (Pandas, PyArrow, PySpark, Airflow, SQLAlchemy...)<br>
 
 >> SQL an NoSQL; <br>
 >> HTML and CSS; <br>
