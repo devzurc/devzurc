@@ -10,13 +10,13 @@ Let's talk about <b>data</b>📈.
 >> SQL an NoSQL; <br>
 >> HTML and CSS; <br>
 
->> Shells Scripts (Unix/Bash) ; <br>
+>> Shells Scripts (Unix / Bash) ; <br>
 >> Docker and Docker Compose; <br>
 
->> Data Pipelines End2End (Batch/Stream); <br>
->> Data Visualizations (Power B.I, Qlik and Superset); <br>
+>> Data Pipelines End2End (Batch / Stream); <br>
+>> Data Visualizations (Power B.I / Qlik / Superset); <br>
 
->> Cloud Computing (AWS, Azure e Oracle Cloud Infrastructure); <br>
+>> Cloud Computing (AWS / Azure / Oracle); <br>
 >> GIT and Agile Methods; <br>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
