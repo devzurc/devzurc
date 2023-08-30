@@ -5,16 +5,15 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 
 Let's talk about <b>data</b>📈.
 
->> Python; <br>
->> Apache Spark and Airflow; <br>
+>> Python; (Pandas, PySpark, Airflow, Pandas, SQLAlchemy...)<br>
 
 >> SQL an NoSQL; <br>
 >> HTML and CSS; <br>
 
->> Shells Unix and Bash; <br>
+>> Shells Scripts (Unix/Bash) ; <br>
 >> Docker and Docker Compose; <br>
 
->> Data Pipelines (Batch and Stream) End2End; <br>
+>> Data Pipelines End2End (Batch/Stream); <br>
 >> Data Visualizations (Power B.I, Qlik and Superset); <br>
 
 >> Cloud Computing (AWS, Azure e Oracle Cloud Infrastructure); <br>
