@@ -7,7 +7,6 @@ Let's talk about <b>data</b>📈.
 
 >> Python; (Pandas, PyArrow, PySpark, Airflow, SQLAlchemy...)<br>
 >> SQL an NoSQL; (Oracle, Postgres, SQLServer, DynamoDB, MongoDB ...) <br>
->> HTML and CSS; <br>
 
 >> Data Pipelines End2End (Batch / Stream); <br>
 >> Data Visualizations (Power B.I / Qlik / Superset); <br>
