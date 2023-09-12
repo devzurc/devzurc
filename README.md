@@ -19,3 +19,5 @@ Let's talk about <b>data</b>📈.
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
 
 
+
+
