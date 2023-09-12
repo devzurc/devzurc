@@ -10,12 +10,12 @@ Let's talk about <b>data</b>📈.
 >> Python; (Pandas, PyArrow, PySpark, Airflow, SQLAlchemy...)<br>
 >> SQL an NoSQL; (Oracle, Postgres, SQLServer, DynamoDB, MongoDB ...) <br>
 
->> Data Pipelines End2End (Batch / Stream); <br>
->> Data Visualizations (Power B.I / Qlik / Superset); <br>
-
 >> Docker; <br>
 >> Bash Scripts;<br>
 >> Cloud Computing (AWS / Azure / Oracle); <br>
+
+>> Data Pipelines End2End (Batch / Stream); <br>
+>> Data Visualizations (Power B.I / Qlik / Superset); <br>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
