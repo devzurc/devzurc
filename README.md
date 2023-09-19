@@ -11,7 +11,7 @@ Let's talk about <b>data</b>📈.
 >> SQL an NoSQL; (Oracle, Postgres, SQLServer, DynamoDB, MongoDB ...) <br>
 
 >> Docker; <br>
->> Bash Scripts;<br>
+>> Shell Scripts;<br>
 >> Cloud Computing (AWS / Azure / Oracle); <br>
 
 >> Data Pipelines End2End (Batch / Stream); <br>
