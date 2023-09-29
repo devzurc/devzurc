@@ -7,7 +7,7 @@ I'm a data dude enthusiast trying to learn everything I think I need to become a
 
 Let's talk about <b>data</b>📈.
 
->> Python; (Pandas, PyArrow, PySpark, Airflow, SQLAlchemy...)<br>
+>> Python; (Airflow, Pandas, PyArrow, PySpark, Deltalake, SQLAlchemy...)<br>
 >> SQL an NoSQL; (Oracle, Postgres, SQLServer, DynamoDB, MongoDB ...) <br>
 
 >> Docker; <br>
@@ -15,7 +15,7 @@ Let's talk about <b>data</b>📈.
 >> Cloud Computing (AWS / Azure / Oracle); <br>
 
 >> Data Pipelines End2End (Batch / Stream); <br>
->> Data Visualizations (Power B.I / Qlik / Superset); <br>
+>> Data Visualizations (Power B.I / QlikSense / Superset); <br>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
 <b>linkedin: https://www.linkedin.com/in/lucas-cruz/</b>
