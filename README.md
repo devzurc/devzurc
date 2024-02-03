@@ -1,17 +1,14 @@
-## Data Scientist | Data Engineer | Data Analyst |
+## Big Data Engineer, Architect and Analyst ;)
 Sup Bro!
-I'm a data dude enthusiast trying to learn everything I think I need to become a better Data Scientist.
-
 Let's talk about <b>data</b>📈.
 
->> Python; (Airflow, Pandas, PyArrow, PySpark, Deltalake, SQLAlchemy...)<br>
->> SQL an NoSQL; (Oracle, Postgres, SQLServer, DynamoDB, MongoDB ...) <br>
+>> Python; (Airflow, Pandas, PyArrow, PySpark, SQLAlchemy, Boto3, Psycopg, Oracledb...)<br>
+>> SQL(Postgres, SQLServer, Oracle) <br>
+>> NoSQL (DynamoDB e MongoDB) 
 
 >> Docker; <br>
 >> Shell Scripts;<br>
 >> Cloud Computing (AWS / Azure / Oracle); <br>
-
->> Data Pipelines End2End (Batch / Stream); <br>
 >> Data Visualizations (Power B.I / QlikSense / Superset); <br>
 
 <b>gitlab: https://gitlab.com/devzurc</b><br>
