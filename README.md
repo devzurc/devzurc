@@ -6,6 +6,9 @@ Let's talk about <b>data</b>📈.
 >> SQL(Postgres, SQLServer, Oracle) <br>
 >> NoSQL (DynamoDB e MongoDB) 
 
+> Apache Airflow;
+> Apache Spark;
+
 >> Docker; <br>
 >> Shell Scripts;<br>
 >> Cloud Computing (AWS / Azure / Oracle); <br>
