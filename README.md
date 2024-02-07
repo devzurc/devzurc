@@ -1,7 +1,4 @@
-## Big Data Engineer, Architect and Analyst ;)
-Sup Bro!
-Let's talk about <b>data</b>📈.
-
+### Big Data Engineer, Architect and Analyst 📈
 > [+1] Docker; <br>
 > [+1] Shell Scripts;<br>
 > [+1] Apache Spark; <br>
